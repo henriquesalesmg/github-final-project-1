@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # https://github.com/snkgatle
+   # snkgatle
 
    # Input:
    # p, principal amount
